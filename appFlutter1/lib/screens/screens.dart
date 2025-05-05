@@ -1,0 +1,11 @@
+export 'package:app_4/screens/alert.dart';
+export 'package:app_4/screens/card_screen.dart';
+export 'package:app_4/screens/home_screen.dart';
+export 'package:app_4/screens/listview1.dart';
+export 'package:app_4/screens/listview2.dart';
+export 'package:app_4/screens/menu.dart';
+export 'package:app_4/screens/items.dart';
+export 'package:app_4/screens/encantamientos.dart';
+export 'package:app_4/screens/comida.dart';
+export 'package:app_4/screens/jugador.dart';
+export 'package:app_4/screens/avatar_screen.dart';
